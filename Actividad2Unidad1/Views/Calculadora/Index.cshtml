@@ -1,0 +1,36 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@{
+    ViewBag.Title = "Calculadora";
+}
+
+<h2>Calculadora</h2>
+
+@using (Html.BeginForm("Calcular", "Calculadora", FormMethod.Post))
+{
+    <label>Valor 1:</label>
+    <input type="number" name="valor1" required />
+    <br />
+    <br />
+
+    <label>Valor 2:</label>
+    <input type="number" name="valor2" required />
+    <br />
+    <br />
+
+    <label>Operación:</label>
+    <select name="operacion">
+        <option value="suma">Suma</option>
+        <option value="resta">Resta</option>
+        <option value="multiplicacion">Multiplicación</option>
+        <option value="division">División</option>
+    </select>
+    <br />
+    <br />
+
+    <input type="submit" value="Calcular" />
+}

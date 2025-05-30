@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL LATITUDE E7250\\source\\repos\\Actividad2Unidad1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68AFE87C-4AC5-41BB-AFCC-0AAC9D6904D3}|Actividad2Unidad1\\Actividad2Unidad1.csproj|c:\\users\\dell latitude e7250\\source\\repos\\actividad2unidad1\\actividad2unidad1\\views\\moneda\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68AFE87C-4AC5-41BB-AFCC-0AAC9D6904D3}|Actividad2Unidad1\\Actividad2Unidad1.csproj|solutionrelative:actividad2unidad1\\views\\moneda\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68AFE87C-4AC5-41BB-AFCC-0AAC9D6904D3}|Actividad2Unidad1\\Actividad2Unidad1.csproj|c:\\users\\dell latitude e7250\\source\\repos\\actividad2unidad1\\actividad2unidad1\\controllers\\monedacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68AFE87C-4AC5-41BB-AFCC-0AAC9D6904D3}|Actividad2Unidad1\\Actividad2Unidad1.csproj|solutionrelative:actividad2unidad1\\controllers\\monedacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68AFE87C-4AC5-41BB-AFCC-0AAC9D6904D3}|Actividad2Unidad1\\Actividad2Unidad1.csproj|c:\\users\\dell latitude e7250\\source\\repos\\actividad2unidad1\\actividad2unidad1\\views\\moneda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68AFE87C-4AC5-41BB-AFCC-0AAC9D6904D3}|Actividad2Unidad1\\Actividad2Unidad1.csproj|solutionrelative:actividad2unidad1\\views\\moneda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68AFE87C-4AC5-41BB-AFCC-0AAC9D6904D3}|Actividad2Unidad1\\Actividad2Unidad1.csproj|c:\\users\\dell latitude e7250\\source\\repos\\actividad2unidad1\\actividad2unidad1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68AFE87C-4AC5-41BB-AFCC-0AAC9D6904D3}|Actividad2Unidad1\\Actividad2Unidad1.csproj|solutionrelative:actividad2unidad1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Resultado.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL LATITUDE E7250\\source\\repos\\Actividad2Unidad1\\Actividad2Unidad1\\Views\\Moneda\\Resultado.cshtml",
+              "RelativeDocumentMoniker": "Actividad2Unidad1\\Views\\Moneda\\Resultado.cshtml",
+              "ToolTip": "C:\\Users\\DELL LATITUDE E7250\\source\\repos\\Actividad2Unidad1\\Actividad2Unidad1\\Views\\Moneda\\Resultado.cshtml*",
+              "RelativeToolTip": "Actividad2Unidad1\\Views\\Moneda\\Resultado.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T19:23:57.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL LATITUDE E7250\\source\\repos\\Actividad2Unidad1\\Actividad2Unidad1\\Views\\Moneda\\Index.cshtml",
+              "RelativeDocumentMoniker": "Actividad2Unidad1\\Views\\Moneda\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL LATITUDE E7250\\source\\repos\\Actividad2Unidad1\\Actividad2Unidad1\\Views\\Moneda\\Index.cshtml*",
+              "RelativeToolTip": "Actividad2Unidad1\\Views\\Moneda\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T19:23:16.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonedaController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL LATITUDE E7250\\source\\repos\\Actividad2Unidad1\\Actividad2Unidad1\\Controllers\\MonedaController.cs",
+              "RelativeDocumentMoniker": "Actividad2Unidad1\\Controllers\\MonedaController.cs",
+              "ToolTip": "C:\\Users\\DELL LATITUDE E7250\\source\\repos\\Actividad2Unidad1\\Actividad2Unidad1\\Controllers\\MonedaController.cs*",
+              "RelativeToolTip": "Actividad2Unidad1\\Controllers\\MonedaController.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:22:15.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL LATITUDE E7250\\source\\repos\\Actividad2Unidad1\\Actividad2Unidad1\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Actividad2Unidad1\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\DELL LATITUDE E7250\\source\\repos\\Actividad2Unidad1\\Actividad2Unidad1\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Actividad2Unidad1\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:04:07.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
